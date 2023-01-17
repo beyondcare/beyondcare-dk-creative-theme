@@ -11,5 +11,6 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap'
     gem 'jekyll-gzip'
     gem 'jekyll-brotli'
+    gem 'jekyll_picture_tag', '~> 2.0'
 end
 gem 'html-proofer'
