@@ -1,3 +1,5 @@
 presets:
   portfolio:
     widths: [500]
+  timeline:
+    widths: [300]
