@@ -21,4 +21,4 @@ published: true
 
 Jeg kommer ud til både private og offentlige virksomheder, ligesom jeg coacher via telefon og skype, hvis nødvendigt. Jeg kan varmt anbefale opfølgningscoaching i tiden efter et afsluttet forløb.
 
-[Jeg har brug for livsstilscoaching]({{ site.baseurl }}coaching)
+[Jeg har brug for livsstilscoaching](/coaching)
