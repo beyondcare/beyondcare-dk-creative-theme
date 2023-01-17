@@ -22,4 +22,4 @@ Walk&Talk coaching – lad os sammen gå en tur gennem Odense SV's flotte skov o
 
 Hvad ville det give dig at gå efter dine drømme?
 
-[Jeg har brug for erhvervscoaching]({{ site.baseurl }}erhvervscoaching)
+[Jeg har brug for erhvervscoaching](/erhvervscoaching)
