@@ -11,6 +11,11 @@ timeline:
     comment: Her arbejdede jeg som mulitisport instructor med undervisning primært i
       fitness og tennis. En helt unik tid med uforglemmelige oplevelser –
       sportsligt såvel som personligt.
+  - picture: /img/timeline/timeline-6.jpg
+    year: 2008 - 2018
+    headline: Instruktør og massør i Fitness DK
+    comment: Underviser i spinning, TRX og motionsboksning, samt fungerer som
+      træningsvejleder.
   - picture: /img/timeline/timeline-5.jpg
     year: 2008
     headline: Ungecoach og lærer på Vejle Idrætsefterskole
@@ -18,20 +23,34 @@ timeline:
       idrætstalent, det boglige og det sociale liv er i fokus. Her har jeg
       samarbejde med skolens fysioterapeut og underviser i dansk, tysk og
       engelsk i 10.klasse.
-  - picture: /img/timeline/timeline-6.jpg
-    year: 2008
-    headline: Instruktør og massør i Fitness DK
-    comment: PT som underviser i spinning og TRX. Har tidligere haft hold i
-      motionsboksning, stram op samt fungeret som træningsvejleder.
+  - picture: /img/timeline/timeline-1.jpg
+    year: 2016-2022
+    headline: "Uddannet og certificeret Mastercoach hos Sofia Manning "
+    comment: |-
+      Specialer i 
+      Public speaking
+      Konflikthåndtering
+      Børn & unge
   - picture: /img/timeline/timeline-3.jpg
     year: 2016
     headline: Up-to-date
     comment: Jeg holder hele tiden øjne og ører åbne for at være helt skarp på
       udviklingen og nye tiltag, både inden for behandlingens og coachingens
       verden.
-  - picture: /img/timeline/timeline-1.jpg
-    year: 2016
-    headline: Uddannet og certificeret life- og businesscoach hos Manning Inspire
-    comment: Accepter eller reager, at sidde mellem to stole er mest smertefuldt.
-      Alle mennesker har en historie, men vi ER ikke vores historie - du har
-      altid et valg!
+  - headline: Diplom i ledelse v/UCL
+    comment: Påbegyndt 2022
+    year: "2022 - "
+    picture: /img/uploads/103a96de-88fe-426b-a5ff-d4b9784e3242.jpeg
+  - headline: Foredragsholder
+    comment: |-
+      www.frankknudsen.dk
+
+      Konflikthåndtering
+      Relationskompetence
+      Motivation
+    year: "2018 - "
+    picture: /img/uploads/03cf99e5-2e4f-4951-9470-ad7cd4202c79.jpeg
+  - headline: Instruktør i Fitness World
+    comment: Body bike
+    year: "2018 - "
+    picture: /img/uploads/a6c0298c-d7a6-4209-a802-125eaa3df2c5.jpeg
