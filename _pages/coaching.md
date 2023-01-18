@@ -1,6 +1,6 @@
 ---
-layout: coaching
 title: Coaching
+layout: coaching
 permalink: /coaching
 published: true
 ---
@@ -17,9 +17,6 @@ Har du brug for...
 - At få ryddet dine hæmmende overbevisninger, dvs. de tanker og forestillinger, som bremser dig af vejen og erstatte med motiverende og resultatfremmende overbevisninger?
 - At få skabt en overskuelig plan, der sikrer lige præcis DIN direkte vej til bedre og hurtigere resultater? Resultater, som holder!
 - At få skabt et klart overblik over og bevidstgørelse om, hvor du er i livet lige nu? Det kan være i  parforholdet, karrieren, de sociale relationer, økonomien mm.?
-
-
-
 
 Jeg både kan og vil være din partner i succes og vil se frem til et spændende, givende og ikke mindst handlingsorienteret samarbejde. Jeg tilbyder altid 30 min. GRATIS session pr. tlf eller skype inden et samarbejde. Det er ligeledes en mulighed at sende mig en mail og lade vores samarbejdet starte den vej.
 
