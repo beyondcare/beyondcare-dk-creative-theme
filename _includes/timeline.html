@@ -4,16 +4,16 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Min tidslinje</h2>
-                    <h3 class="section-subheading text-muted">Lad tidslinjen fortælle om dine uddannelser mv. og lad den første tekst være lidt mere ligepå, hvad du tror på som person. Vil du være en del af min historie.</h3>
+                    <h3 class="section-subheading text-muted">Tjek min tidligere historie og bliv en del af den.</h3>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-12">
                     <ul class="timeline">
-                        {% for item in site.data.timeline %}
+                        {% for item in site.data.settings.timeline %}
                         <li class="{% cycle '', 'timeline-inverted' %}">
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/timeline/{{ item.picture }}" alt="{{ item.headline }}">
+                                {% picture timeline img/timeline/{{ item.picture }} 1:1 entropy class="img-circle img-responsive" --alt {{ item.headline }} %}
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
