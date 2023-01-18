@@ -13,7 +13,7 @@
                         {% for item in site.data.timeline.timeline %}
                         <li class="{% cycle '', 'timeline-inverted' %}">
                             <div class="timeline-image">
-                                {% picture timeline img/timeline/{{ item.picture }} 1:1 entropy class="img-circle img-responsive" --alt {{ item.headline }} %}
+                                {% picture timeline {{ item.picture }} 1:1 entropy class="img-circle img-responsive" --alt {{ item.headline }} %}
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
