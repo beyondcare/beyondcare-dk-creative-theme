@@ -56,7 +56,7 @@ collections:
     files:
       - label: "Priser"
         name: priser
-        file: "_data/settings.yml"
+        file: "_data/prices.yml"
         fields:
           - label: "Priser"
             label_singular: "Pris"
@@ -67,6 +67,31 @@ collections:
               - {label: "Service", name: service, widget: string}
               - {label: "Pris", name: price, widget: string, required: false}
               - {label: "Tag", name: "tag", widget: "select", options: ["coaching", "massage"], default: "", required: false}
+      - label: "Services"
+        name: services
+        file: "_data/services.yml"
+        fields:
+          - label: "Services"
+            label_singular: "Service"
+            name: services
+            widget: list
+            fields:
+              - {label: "Service", name: service, widget: string}
+              - {label: "Url", name: url, widget: string}
+              - {label: "Text", name: text, widget: text}
+      - label: "Timeline"
+        name: timeline
+        file: "_data/timeline.yml"
+        fields:
+          - label: "Timeline"
+            label_singular: "Timeline"
+            name: timeline
+            widget: list
+            fields:
+              - {label: "Picture", name: picture, widget: image, required: true}
+              - {label: "Year", name: year, widget: string, required: true}
+              - {label: "Headline", name: headline, widget: string, required: true}
+              - {label: "Comment", name: comment, widget: text, required: true}
       - label: "Navigation"
         name: nav
         file: "_data/navigation.yml"

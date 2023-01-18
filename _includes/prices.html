@@ -5,7 +5,7 @@
 
     <table class="table table-stribed table-hover">
       <tbody>
-      {% for item in site.data.settings.prices %}
+      {% for item in site.data.prices.prices %}
       {% if include.tag contains item.tag %}
       <tr>
         <th>{{ item.service }}</th>
