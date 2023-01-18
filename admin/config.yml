@@ -47,7 +47,8 @@ collections:
         file: "index.html"
         fields: # The fields for each document, usually in front matter
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Layout", name: "layout", widget: "select", options: ["coaching", "massage", "about"], default: "coaching"}
+          - {label: "Layout", name: "layout", widget: "select", options: ["default"], default: "default"}
+          - {label: "intro", name: "intro", widget: "text"}
           - {label: "Body", name: "body", widget: "markdown"}
   - label: "Site options"
     name: "settings"
