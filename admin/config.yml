@@ -47,11 +47,11 @@ collections:
         file: "index.html"
         fields: # The fields for each document, usually in front matter
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Layout", name: "layout", widget: "select", options: ["default"], default: "default"}
+          - {label: "Layout", name: "layout", widget: "hidden"}
           - {label: "intro", name: "intro", widget: "text"}
           - {label: "Body", name: "body", widget: "markdown"}
-  - label: "Site options"
-    name: "settings"
+  - label: "Lists"
+    name: "lists"
     editor:
       preview: false
     files:
@@ -67,7 +67,7 @@ collections:
             fields:
               - {label: "Service", name: service, widget: string}
               - {label: "Pris", name: price, widget: string, required: false}
-              - {label: "Tag", name: "tag", widget: "select", options: ["coaching", "massage"], default: "", required: false}
+              - {label: "Tag", name: "tag", widget: "select", options: ["coaching", "massage", "foredrag"], default: ""}
       - label: "Services"
         name: services
         file: "_data/services.yml"
@@ -102,11 +102,16 @@ collections:
             name: pictures
             widget: list
             fields:
-              - {label: "Headline", name: "category", widget: "text", required: true}
+              - {label: "Headline", name: "category", widget: "string", required: true}
               - {label: "Text", name: project-name, widget: text, required: true}
               - {label: "Picture", name: picture, widget: image, required: true}
               - {label: "Url", name: url, widget: string, required: true}
-              - {label: "Tag", name: "tag", widget: "select", options: ["coaching", "massage", "frank"], default: "", required: false}
+              - {label: "Tag", name: "tag", widget: "select", options: ["coaching", "massage", "frank", "foredrag"], default: ""}
+  - label: "Site options"
+    name: "settings"
+    editor:
+      preview: false
+    files:
       - label: "Navigation"
         name: nav
         file: "_data/navigation.yml"
