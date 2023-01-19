@@ -20,11 +20,12 @@ pictures:
     project-name: Har du brug for at finde frem til det du virkelig vil?
     tag: coaching
     url: /coaching
-  - picture: /img/portfolio/bc-1.jpg
-    category: Napoleon Hill
-    project-name: ”Vent ikke – tidspunktet vil aldrig være perfekt”
-    tag: coaching
-    url: /coaching
+  - picture: /img/uploads/11.jpg
+    category: Foredrag og kurser
+    project-name: '"Vi skal ikke undgå konflikter. De er et vilkår. Vi skal lære at
+      være i uenighedsfeltet."'
+    tag: foredrag
+    url: /foredrag
   - picture: /img/portfolio/bc-4.jpg
     category: Erhvervscoaching
     project-name: Har din virksomhed, dit team eller du som leder brug for at blive
