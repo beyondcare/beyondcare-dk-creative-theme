@@ -49,7 +49,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"}
-      - {label: "Layout", name: "layout", widget: "select", options: ["coaching", "massage", "about"], default: "coaching"}
+      - {label: "Layout", name: "layout", widget: "select", options: ["coaching", "massage", "about", "foredrag"], default: "coaching"}
       - {label: "Body", name: "body", widget: "markdown"}
   - label: "Lister"
     name: "lists"
@@ -108,6 +108,18 @@ collections:
               - {label: "Picture", name: picture, widget: image, required: true}
               - {label: "Url", name: url, widget: string, required: true}
               - {label: "Tag", name: "tag", widget: "select", options: ["coaching", "massage", "frank", "foredrag", "forside"], default: "", multiple: true}
+      - label: "Referencer"
+        name: referencer
+        file: "_data/references.yml"
+        fields:
+          - label: "Referencer"
+            label_singular: "Reference"
+            name: references
+            widget: list
+            fields:
+              - {label: "Navn", name: name, widget: string}
+              - {label: "Titel", name: subtitle, widget: string}
+              - {label: "Tekst", name: text, widget: text}
   - label: "Sideindstillinger"
     name: "settings"
     editor:
