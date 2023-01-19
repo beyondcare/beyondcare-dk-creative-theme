@@ -1,6 +1,7 @@
 ---
 title: Foredrag og kurser
 layout: about
+permalink: /foredrag
 ---
 ## **Lyt og skab det gode kollegaskab** 
 
