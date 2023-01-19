@@ -10,6 +10,6 @@ services:
     text: Erfaren og kompetent massør tilbyder forskellige former for massage.
       Herunder også muskeltests, tapening med bl.a. kinesiotape og sportstape,
       triggerpunktsterapi samt sportsakupunktur.
-  - service: Foredrag
+  - service: Foredrag og temadage
     url: /foredrag
-    text: Foredragstekst
+    text: Om konflikthåndtering, relationskompetence og kommunikation.

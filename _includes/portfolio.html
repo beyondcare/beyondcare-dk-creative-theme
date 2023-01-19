@@ -4,7 +4,7 @@
             {% for picture in site.data.pictures.pictures %}
             {% if include.tag contains picture.tag %}
             <div class="col-lg-4 col-sm-6">
-                <a href="{{ picture.url }}" class="portfolio-box">
+                <a href="{{ picture.url | relative_url }}" class="portfolio-box">
                     {% picture portfolio {{ picture.picture }} 16:9 entropy class="img-responsive" --alt {{ picture.category }} %}
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
