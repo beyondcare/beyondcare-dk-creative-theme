@@ -1,4 +1,7 @@
 services:
+  - service: Foredrag og temadage
+    url: /foredrag
+    text: Om konflikthåndtering, relationskompetence og kommunikation.
   - service: Coaching
     url: /coaching
     icon: null
@@ -10,6 +13,3 @@ services:
     text: Erfaren og kompetent massør tilbyder forskellige former for massage.
       Herunder også muskeltests, tapening med bl.a. kinesiotape og sportstape,
       triggerpunktsterapi samt sportsakupunktur.
-  - service: Foredrag og temadage
-    url: /foredrag
-    text: Om konflikthåndtering, relationskompetence og kommunikation.
