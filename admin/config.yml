@@ -27,17 +27,6 @@ slug:
   sanitize_replacement: "-"
 
 collections:
-  - name: "pages" # Used in routes, e.g., /admin/collections/blog
-    label: "Sider" # Used in the UI
-    label_singular: "Side"
-    folder: "_pages/" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Permalink", name: "permalink", widget: "string"}
-      - {label: "Layout", name: "layout", widget: "select", options: ["coaching", "massage", "about"], default: "coaching"}
-      - {label: "Body", name: "body", widget: "markdown"}
   - label: "Forsiden"
     name: "index"
     editor:
@@ -51,7 +40,18 @@ collections:
           - {label: "Layout", name: "layout", widget: "hidden"}
           - {label: "intro", name: "intro", widget: "text"}
           - {label: "Body", name: "body", widget: "markdown"}
-  - label: "Lists"
+  - name: "pages" # Used in routes, e.g., /admin/collections/blog
+    label: "Sider" # Used in the UI
+    label_singular: "Side"
+    folder: "_pages/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string"}
+      - {label: "Layout", name: "layout", widget: "select", options: ["coaching", "massage", "about"], default: "coaching"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - label: "Lister"
     name: "lists"
     editor:
       preview: false
@@ -81,7 +81,7 @@ collections:
               - {label: "Service", name: service, widget: string}
               - {label: "Url", name: url, widget: string}
               - {label: "Text", name: text, widget: text}
-      - label: "Timeline"
+      - label: "Tidslinje"
         name: timeline
         file: "_data/timeline.yml"
         fields:
@@ -94,7 +94,7 @@ collections:
               - {label: "Comment", name: comment, widget: text, required: true}
               - {label: "Year", name: year, widget: string, required: true}
               - {label: "Picture", name: picture, widget: image, required: true}
-      - label: "Pictures"
+      - label: "Billeder"
         name: pictures
         file: "_data/pictures.yml"
         fields:
@@ -108,7 +108,7 @@ collections:
               - {label: "Picture", name: picture, widget: image, required: true}
               - {label: "Url", name: url, widget: string, required: true}
               - {label: "Tag", name: "tag", widget: "select", options: ["coaching", "massage", "frank", "foredrag"], default: ""}
-  - label: "Site options"
+  - label: "Sideindstillinger"
     name: "settings"
     editor:
       preview: false
