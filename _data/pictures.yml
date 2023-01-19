@@ -52,6 +52,7 @@ pictures:
     project-name: Har du brug for hjælp til at finde vejen frem til du virkelig vil?
     tag:
       - om
+      - foredrag
     url: /coaching
   - picture: /img/portfolio/frank-4.jpg
     category: Erhvervscoaching
@@ -60,4 +61,5 @@ pictures:
     tag:
       - om
       - coaching
+      - foredrag
     url: /coaching
