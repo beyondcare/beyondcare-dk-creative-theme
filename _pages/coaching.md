@@ -4,24 +4,34 @@ layout: coaching
 permalink: /coaching
 published: true
 ---
-
 ## Livsstilscoaching
 
-Har du brug for...
+Har du brug for at…
 
-- At skifte dit fokus og finde frem til hvad du virkelig vil?
-- At få hjælp til at realisere den drøm, der måske fylder (for?!) meget i tankerne, men aldrig rigtig bliver handlet på?
-- At få overblik over dine værdier, visioner og mål i livet? At afklare og måske ændre livsværdierne? Værdier som du enten bevidst eller ubevidst træffer beslutninger efter.
-- At træffe (nye?!) betydningsfulde beslutninger?
-- At få struktur på dine mål og fastholde fokus på dem - uanset hvad der sker? Hos mig arbejder vi ikke med quick fix'es!
-- At få ryddet dine hæmmende overbevisninger, dvs. de tanker og forestillinger, som bremser dig af vejen og erstatte med motiverende og resultatfremmende overbevisninger?
-- At få skabt en overskuelig plan, der sikrer lige præcis DIN direkte vej til bedre og hurtigere resultater? Resultater, som holder!
-- At få skabt et klart overblik over og bevidstgørelse om, hvor du er i livet lige nu? Det kan være i  parforholdet, karrieren, de sociale relationer, økonomien mm.?
+* Skifte dit fokus og finde frem til hvad du virkelig vil?
+* Omsætte ord og tanker til handlinger?
+* Løse en konflikt? På jobbet? I parforholdet? I dig selv? I en relation?
+* Åbne op for nye perspektiver og handlemuligheder? 
+* Få overblik over dine værdier, visioner og mål i livet? 
+* Træffe (nye?!) betydningsfulde beslutninger?
+* Blive klædt på til eksamen? Oplægget? Talen? 
 
-Jeg både kan og vil være din partner i succes og vil se frem til et spændende, givende og ikke mindst handlingsorienteret samarbejde. Jeg tilbyder altid 30 min. GRATIS session pr. tlf eller skype inden et samarbejde. Det er ligeledes en mulighed at sende mig en mail og lade vores samarbejdet starte den vej.
+Jeg både kan og vil være din partner i succes og vil se frem til et spændende, givende og ikke mindst handlingsorienteret samarbejde. Jeg tilbyder 30 min. gratis session pr. tlf. inden et eventuelt samarbejde. Det er ligeledes en mulighed at sende mig en mail og lade vores samarbejdet starte den vej.
 
-Walk&Talk coaching – lad os sammen gå en tur gennem Odense Sv's flotte skov og natur langs åen med 2 store kopper kaffe og finde ud af, hvad du virkelig gerne vil, hvad du virkelig ønsker at opnå, hvad du har brug for lige nu. Er du i tvivl om coaching kan hjælpe dig, så vent ikke med at ringe og lad os mødes.
+Walk&Talk coaching – lad os sammen gå en tur gennem Odense Sv’s flotte skov og natur langs åen med 2 store kopper kaffe og finde ud af, hvad du virkelig gerne vil, hvad du virkelig ønsker at opnå, hvad du har brug for lige nu. Er du i tvivl om coaching kan hjælpe dig, så vent ikke med at ringe.
 
-Hvad ville det give dig at gå efter dine drømme?
+
+
+## **Ledelses- og erhvervscoaching**
+
+* En virksomhed for mig er ofte at betragte som et team – et hold, der i fællesskab skal løse opgaver og sikre mål og strategier for virksomheden. I min teamcoaching vil jeg skabe en teamånd og bevidstgøre teamet om alles styrker og udviklingspotentiale, således virksomheden bliver endnu stærkere.
+* Er I i teamet bevidste om, hvad der giver og dræner både jer og virksomheden for energi?
+* Kan kommunikationen i virksomheden trænge til et realitetstjek og brush-up?
+* Kunne du tænke dig sparring på at blive en endnu bedre leder?
+* Har du som leder alle medarbejderne med?
+* Kunne du tænke dig skærpet fokus på ansvar, ejerskab og motivation hos både virksomheden, teamet og den enkelte medarbejder?
+* Har medarbejderen brug for at finde, forbedre og fremhæve uudnyttet potentiale i arbejdsmæssig sammenhæng?
+
+Jeg kommer ud til både private og offentlige virksomheder, ligesom jeg coacher via telefon og online, hvis nødvendigt. 
 
 [Jeg har brug for erhvervscoaching](/erhvervscoaching)
