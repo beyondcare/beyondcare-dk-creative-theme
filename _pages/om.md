@@ -1,23 +1,20 @@
 ---
-layout: about
 title: Om
+layout: about
 published: true
 permalink: /om
 ---
-
 ## Om BeyondCare
 
-Med stor passion for krop og sind, og hvordan hele vores organisme hænger sammen fysisk og mentalt, har jeg valgt at uddanne mig inden for begge retninger og har gennem mine erfaringer som massør og coach erhvervet mig stor viden og mange kompetencer, som jeg brænder for at dele med dig.
+Jeg hedder Frank Knudsen - jeg er foredragsholder, mastercoach og mentor. Jeg brænder for relationskompetence, konflikthåndtering og motivation. Jeg besøger hvert år adskillige spændende virksomheder med oplæg og kurser i netop disse emner. 
 
-Som udgangspunkt lyver kroppens signaler aldrig, og jeg vil med mine samtaler og/eller behandlinger tage udgangspunkt i lige præcis de signaler.
+Jeg har min coachingpraksis med specialer indenfor hovedsagelig motivation, konflikthåndtering og kommunikation samt ungecoaching og præstations- og eksamensangst. 
 
-Din krop – dit sind – dit mål – dit fokus er helt essentielt.
-
-For at optimere mine behandlingstilbud til mine klienter holder jeg mig løbende opdateret.
+Jeg har stor interesse i krop og sind og hvordan vi hænger sammen fysisk og mentalt, og har derfor valgt at uddanne mig indenfor begge retninger. Jeg har mange års erfaring som sportsterapeut og professionel massør både inden for cykelsport, håndbold, ishockey og klienter privat.
 
 ## Adresse
 
-BeyondCare  
-v/ Frank Knudsen  
-Ahornvej 24  
+BeyondCare\
+v/ Frank Knudsen\
+Ahornvej 24\
 5250 Odense Sv
