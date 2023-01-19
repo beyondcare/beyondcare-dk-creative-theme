@@ -20,8 +20,6 @@ Jeg både kan og vil være din partner i succes og vil se frem til et spændende
 
 Walk&Talk coaching – lad os sammen gå en tur gennem Odense Sv’s flotte skov og natur langs åen med 2 store kopper kaffe og finde ud af, hvad du virkelig gerne vil, hvad du virkelig ønsker at opnå, hvad du har brug for lige nu. Er du i tvivl om coaching kan hjælpe dig, så vent ikke med at ringe.
 
-
-
 ## **Ledelses- og erhvervscoaching**
 
 * En virksomhed for mig er ofte at betragte som et team – et hold, der i fællesskab skal løse opgaver og sikre mål og strategier for virksomheden. I min teamcoaching vil jeg skabe en teamånd og bevidstgøre teamet om alles styrker og udviklingspotentiale, således virksomheden bliver endnu stærkere.
@@ -32,6 +30,4 @@ Walk&Talk coaching – lad os sammen gå en tur gennem Odense Sv’s flotte skov
 * Kunne du tænke dig skærpet fokus på ansvar, ejerskab og motivation hos både virksomheden, teamet og den enkelte medarbejder?
 * Har medarbejderen brug for at finde, forbedre og fremhæve uudnyttet potentiale i arbejdsmæssig sammenhæng?
 
-Jeg kommer ud til både private og offentlige virksomheder, ligesom jeg coacher via telefon og online, hvis nødvendigt. 
-
-[Jeg har brug for erhvervscoaching](/erhvervscoaching)
+Jeg kommer ud til både private og offentlige virksomheder, ligesom jeg coacher via telefon og online, hvis nødvendigt.
