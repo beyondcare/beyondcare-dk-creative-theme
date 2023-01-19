@@ -45,19 +45,19 @@ pictures:
     category: Massage
     project-name: Professionel massage hjælper ganske enkelt.
     tag:
-      - frank
+      - om
     url: /massage
   - picture: /img/portfolio/frank-3.jpg
     category: Livsstilscoaching
     project-name: Har du brug for hjælp til at finde vejen frem til du virkelig vil?
     tag:
-      - frank
+      - om
     url: /coaching
   - picture: /img/portfolio/frank-4.jpg
     category: Erhvervscoaching
     project-name: Har din virksomhed, dit team eller du som leder brug for at blive
       endnu skarpere på det I allerede kan?
     tag:
-      - frank
+      - om
       - coaching
     url: /coaching
