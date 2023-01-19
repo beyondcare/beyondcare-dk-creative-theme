@@ -6,9 +6,9 @@ timeline:
     comment: En faglig kompetent og givende uddannelse, som straks blev en del af
       min hverdag og senere arbejdsliv.
   - picture: /img/timeline/timeline-2.jpg
-    year: 2007-2008
+    year: 2007 - 2008
     headline: Instruktør på Club La Santa
-    comment: Her arbejdede jeg som mulitisport instructor med undervisning primært i
+    comment: Jeg arbejdede som mulitisport instructor med undervisning primært i
       fitness og tennis. En helt unik tid med uforglemmelige oplevelser –
       sportsligt såvel som personligt.
   - picture: /img/timeline/timeline-6.jpg
@@ -17,40 +17,47 @@ timeline:
     comment: Underviser i spinning, TRX og motionsboksning, samt fungerer som
       træningsvejleder.
   - picture: /img/timeline/timeline-5.jpg
-    year: 2008
+    year: "2008 - "
     headline: Ungecoach og lærer på Vejle Idrætsefterskole
-    comment: Her arbejder jeg i dag, Danmarks fedeste efterskole hvor både dit
+    comment: Her arbejder jeg i dag. Danmarks fedeste efterskole hvor både dit
       idrætstalent, det boglige og det sociale liv er i fokus. Her er jeg
       ungecoach og mentor samt har et samarbejde med skolens fysioterapeut
   - picture: /img/timeline/timeline-1.jpg
-    year: 2016-2022
+    year: 2016 - 2022
     headline: "Uddannet og certificeret Mastercoach hos Sofia Manning "
     comment: |-
-      Specialer i 
-      Public speaking
-      Konflikthåndtering
-      Børn & unge
-  - picture: /img/timeline/timeline-3.jpg
-    year: 2016
-    headline: Up-to-date
-    comment: Jeg holder hele tiden øjne og ører åbne for at være helt skarp på
-      udviklingen og nye tiltag, både inden for behandlingens og coachingens
-      verden.
+      Specialer i:
+
+      - Public speaking
+
+      - Konflikthåndtering
+
+      - Børn & unge
   - headline: Diplom i ledelse v/UCL
-    comment: Påbegyndt 2022
+    comment: Påbegyndt diplomuddannelse i ledelse 2022
     year: "2022 - "
     picture: /img/uploads/103a96de-88fe-426b-a5ff-d4b9784e3242.jpeg
   - headline: Foredragsholder
     comment: |-
       www.frankknudsen.dk
 
-      Kurser og foredrag omkring:
-      Konflikthåndtering
-      Relationskompetence
-      Motivation
+
+      - Kurser og foredrag omkring:
+
+      - Konflikthåndtering
+
+      - Relationskompetence
+
+      - Motivation
     year: "2018 - "
-    picture: /img/uploads/03cf99e5-2e4f-4951-9470-ad7cd4202c79.jpeg
+    picture: /img/uploads/44444444444.jpg
   - headline: Instruktør i Fitness World
-    comment: Body bike
+    comment: Underviser i Body bike for de sejeste medlemmer
     year: "2018 - "
     picture: /img/uploads/a6c0298c-d7a6-4209-a802-125eaa3df2c5.jpeg
+  - picture: /img/timeline/timeline-3.jpg
+    year: 2016
+    headline: Up-to-date
+    comment: Jeg holder hele tiden øjne og ører åbne for at være helt skarp på
+      udviklingen og nye tiltag, både inden for behandlingens og coachingens
+      verden.
