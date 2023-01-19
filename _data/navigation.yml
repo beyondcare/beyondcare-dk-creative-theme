@@ -5,5 +5,7 @@ navigation:
     url: /coaching
   - title: Massage
     url: /massage
+  - title: Foredrag
+    url: /foredrag
   - title: Kontakt
     url: /#contact
