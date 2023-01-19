@@ -2,7 +2,7 @@ pictures:
   - picture: /img/portfolio/bc-5.jpg
     category: Massage
     project-name: Professionel massage hjælper ganske enkelt.
-    tag: massage
+    tag: coaching
     url: /massage
   - picture: /img/portfolio/bc-6.jpg
     category: Tapening
@@ -11,7 +11,8 @@ pictures:
     url: /massage
   - picture: /img/portfolio/bc-2.jpg
     category: Sportsakupunktur
-    project-name: Evidensbaseret virkning! Sportsakupunktur er især velegnet til sportsskader, men kan bruges i mange flere sammenhænge.
+    project-name: Evidensbaseret virkning! Sportsakupunktur er især velegnet til
+      sportsskader, men kan bruges i mange flere sammenhænge.
     tag: massage
     url: /massage
   - picture: /img/portfolio/bc-3.jpg
@@ -26,7 +27,8 @@ pictures:
     url: /coaching
   - picture: /img/portfolio/bc-4.jpg
     category: Erhvervscoaching
-    project-name: Har din virksomhed, dit team eller du som leder brug for at blive endnu skarpere på det I allerede kan?
+    project-name: Har din virksomhed, dit team eller du som leder brug for at blive
+      endnu skarpere på det I allerede kan?
     tag: coaching
     url: /erhvervscoaching
   - picture: /img/portfolio/frank-2.jpg
@@ -41,6 +43,7 @@ pictures:
     url: /coaching
   - picture: /img/portfolio/frank-4.jpg
     category: Erhvervscoaching
-    project-name: Har din virksomhed, dit team eller du som leder brug for at blive endnu skarpere på det I allerede kan?
+    project-name: Har din virksomhed, dit team eller du som leder brug for at blive
+      endnu skarpere på det I allerede kan?
     tag: frank
     url: /erhvervscoaching
