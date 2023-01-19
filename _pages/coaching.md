@@ -1,7 +1,7 @@
 ---
 title: Coaching
-layout: coaching
 permalink: /coaching
+layout: coaching
 published: true
 ---
 ## Livsstilscoaching
@@ -19,6 +19,10 @@ Har du brug for at…
 Jeg både kan og vil være din partner i succes og vil se frem til et spændende, givende og ikke mindst handlingsorienteret samarbejde. Jeg tilbyder 30 min. gratis session pr. tlf. inden et eventuelt samarbejde. Det er ligeledes en mulighed at sende mig en mail og lade vores samarbejdet starte den vej.
 
 Walk&Talk coaching – lad os sammen gå en tur gennem Odense Sv’s flotte skov og natur langs åen med 2 store kopper kaffe og finde ud af, hvad du virkelig gerne vil, hvad du virkelig ønsker at opnå, hvad du har brug for lige nu. Er du i tvivl om coaching kan hjælpe dig, så vent ikke med at ringe.
+
+
+
+
 
 ## **Ledelses- og erhvervscoaching**
 
