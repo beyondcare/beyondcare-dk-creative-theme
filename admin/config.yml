@@ -107,7 +107,7 @@ collections:
               - {label: "Text", name: project-name, widget: text, required: true}
               - {label: "Picture", name: picture, widget: image, required: true}
               - {label: "Url", name: url, widget: string, required: true}
-              - {label: "Tag", name: "tag", widget: "select", options: ["coaching", "massage", "frank", "foredrag"], default: ""}
+              - {label: "Tag", name: "tag", widget: "select", options: ["coaching", "massage", "frank", "foredrag", "forside"], default: "", multiple: true}
   - label: "Sideindstillinger"
     name: "settings"
     editor:

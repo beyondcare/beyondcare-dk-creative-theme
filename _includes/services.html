@@ -14,7 +14,7 @@
                 <div class="service-box">
                     <i class="fa fa-4x fa-{{ item.icon }} wow bounceIn text-primary"></i>
                     <h3><a href="{{ item.url | relative_url }}">{{ item.service }}</a></h3>
-                    <p class="text-muted">{{ item.text | markdown }}</p>
+                    <p class="text-muted">{{ item.text | markdownify }}</p>
                 </div>
             </div>
              {% endfor %}
