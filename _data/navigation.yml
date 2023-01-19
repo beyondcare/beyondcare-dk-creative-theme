@@ -1,11 +1,11 @@
 navigation:
-  - title: Om
-    url: /om
+  - title: Foredrag
+    url: /foredrag
   - title: Coaching
     url: /coaching
   - title: Massage
     url: /massage
-  - title: Foredrag
-    url: /foredrag
+  - title: Om
+    url: /om
   - title: Kontakt
     url: /#contact
