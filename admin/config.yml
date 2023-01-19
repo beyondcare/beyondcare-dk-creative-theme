@@ -38,7 +38,7 @@ collections:
         fields: # The fields for each document, usually in front matter
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "hidden"}
-          - {label: "intro", name: "intro", widget: "text"}
+          - {label: "Intro", name: "intro", widget: "text"}
           - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
     label: "Sider" # Used in the UI
@@ -124,3 +124,9 @@ collections:
             fields:
               - {label: "Title", name: title, widget: string, required: true}
               - {label: "Url", name: url, widget: string, required: true}
+      - label: "Kontakt CTA"
+        name: aside
+        file: "_data/aside.yml"
+        fields:
+          - {label: "Title", name: title, widget: string, required: true}
+          - {label: "Text", name: text, widget: text, required: true}
