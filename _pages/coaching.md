@@ -4,6 +4,7 @@ permalink: /coaching
 layout: coaching
 published: true
 ---
+
 ## Livsstilscoaching
 
 Har du brug for at…
