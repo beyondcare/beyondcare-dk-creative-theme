@@ -108,14 +108,3 @@ jobs:
             --ignore-empty-alt
             --cache '{ "timeframe": { "external": "7d" } }'
           # The arguments to pass to HTMLProofer
-  clean:
-    needs: [build,deploy,test]
-    runs-on: ubuntu-latest
-    steps:
-      - name: Use cache
-        uses: actions/cache@v3
-        with:
-          path: "_site/"
-          key: ${{ runner.os }}-${{ github.sha }}
-      - name: ☁️ Cleaning up
-        run: bundle exec jekyll clean
