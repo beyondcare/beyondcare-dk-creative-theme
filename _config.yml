@@ -29,7 +29,7 @@ sass:
 
 # Prose integration
 prose:
-  siteurl: "http://beyondcare.dk"
+  siteurl: "https://beyondcare.dk"
   media: 'img'
   ignore:
     - .codio

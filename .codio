@@ -9,6 +9,6 @@
 
 // Preview button configuration
   "preview": {
-        "Box URL": "http://{{domain}}:4000/"
+        "Box URL": "https://{{domain}}:4000/"
   }
 }
