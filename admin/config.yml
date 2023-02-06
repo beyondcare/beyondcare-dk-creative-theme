@@ -1,0 +1,144 @@
+name: beyondcare
+
+backend:
+  name: github
+  repo: beyondcare/beyondcare-dk-creative-theme
+  branch: master # Branch to update (optional; defaults to master)
+  api_root: https://api.github.com
+  site_domain: beyondcaredk.netlify.app
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
+  cms_label_prefix: netlify-cms/
+
+media_folder: "img/uploads" # Media files will be stored in the repo under images/uploads
+
+site_url: https://beyondcare.dk
+display_url: https://beyondcare.dk
+logo_url: https://beyondcare.dk/img/logo.png
+
+show_preview_links: false
+
+editor:
+  preview: false
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "-"
+
+collections:
+  - label: "Forsiden"
+    name: "index"
+    editor:
+      preview: false
+    files:
+      - label: "Forsiden"
+        name: "index"
+        file: "index.html"
+        fields: # The fields for each document, usually in front matter
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Intro", name: "intro", widget: "text"}
+          - {label: "Body", name: "body", widget: "markdown"}
+  - name: "pages" # Used in routes, e.g., /admin/collections/blog
+    label: "Sider" # Used in the UI
+    label_singular: "Side"
+    folder: "_pages/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string"}
+      - {label: "Layout", name: "layout", widget: "select", options: ["coaching", "massage", "about", "foredrag"], default: "coaching"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - label: "Lister"
+    name: "lists"
+    editor:
+      preview: false
+    files:
+      - label: "Priser"
+        name: priser
+        file: "_data/prices.yml"
+        fields:
+          - label: "Priser"
+            label_singular: "Pris"
+            name: prices
+            widget: list
+            summary: "{{service}} - {{price}}"
+            fields:
+              - {label: "Service", name: service, widget: string}
+              - {label: "Pris", name: price, widget: string, required: false}
+              - {label: "Tag", name: "tag", widget: "select", options: ["coaching", "massage", "foredrag"], default: ""}
+      - label: "Services"
+        name: services
+        file: "_data/services.yml"
+        fields:
+          - label: "Services"
+            label_singular: "Service"
+            name: services
+            widget: list
+            fields:
+              - {label: "Service", name: service, widget: string}
+              - {label: "Url", name: url, widget: string}
+              - {label: "Text", name: text, widget: text}
+      - label: "Tidslinje"
+        name: timeline
+        file: "_data/timeline.yml"
+        fields:
+          - label: "Timeline"
+            label_singular: "Timeline"
+            name: timeline
+            widget: list
+            fields:
+              - {label: "Headline", name: headline, widget: string, required: true}
+              - {label: "Comment", name: comment, widget: text, required: true}
+              - {label: "Year", name: year, widget: string, required: true}
+              - {label: "Picture", name: picture, widget: image, required: true}
+      - label: "Billeder"
+        name: pictures
+        file: "_data/pictures.yml"
+        fields:
+          - label: "Pictures"
+            label_singular: "Picture"
+            name: pictures
+            widget: list
+            fields:
+              - {label: "Headline", name: "category", widget: "string", required: true}
+              - {label: "Text", name: project-name, widget: text, required: true}
+              - {label: "Picture", name: picture, widget: image, required: true}
+              - {label: "Url", name: url, widget: string, required: true}
+              - {label: "Tag", name: "tag", widget: "select", options: ["coaching", "massage", "om", "foredrag", "forside"], default: "", multiple: true}
+      - label: "Referencer"
+        name: referencer
+        file: "_data/references.yml"
+        fields:
+          - label: "Referencer"
+            label_singular: "Reference"
+            name: references
+            widget: list
+            fields:
+              - {label: "Navn", name: name, widget: string}
+              - {label: "Titel", name: subtitle, widget: string}
+              - {label: "Tekst", name: text, widget: text}
+  - label: "Sideindstillinger"
+    name: "settings"
+    editor:
+      preview: false
+    files:
+      - label: "Navigation"
+        name: nav
+        file: "_data/navigation.yml"
+        fields:
+          - label: "Navigation"
+            label_singular: "Navigation"
+            name: navigation
+            widget: list
+            fields:
+              - {label: "Title", name: title, widget: string, required: true}
+              - {label: "Url", name: url, widget: string, required: true}
+      - label: "Kontakt CTA"
+        name: aside
+        file: "_data/aside.yml"
+        fields:
+          - {label: "Title", name: title, widget: string, required: true}
+          - {label: "Text", name: text, widget: text, required: true}
