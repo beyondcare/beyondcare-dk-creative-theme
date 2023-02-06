@@ -1,7 +1,7 @@
 ---
 title: Foredrag og kurser
-layout: foredrag
 permalink: /foredrag
+layout: foredrag
 ---
 ## **Lyt og skab det gode kollegaskab** 
 
